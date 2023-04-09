@@ -1,2 +1,1 @@
-# ChromeExtension
- Google Chrome web uzantısı 
+# Google Chrome web uzantısı 
